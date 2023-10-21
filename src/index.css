@@ -1,0 +1,7 @@
+.dark{
+    background-color: #282c35;
+    transition: all 500ms;
+}
+.light {
+    background-color: azure;
+}
